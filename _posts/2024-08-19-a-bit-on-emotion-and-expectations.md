@@ -1,0 +1,7 @@
+---
+title: "A bit on emotion and expectations"
+date: 2024-08-19 21:24:48 -07:00
+tags: ["mood"]
+---
+
+The last month-ish I had a physics final, an actuary exam, and a paper. Each of these I studied extensively for / worked hard on and got results I expected. What I wanted to say was, I didn’t particularly feel proud nor excited over accomplishing these items. When a result is expected, I don’t think there is much emotion attached to the event of it happening. Perhaps I’ll admire my past self from the future, but in the moment, no noteworthy emotion arises. I’ve really only begun working hard towards goals since starting college, and the same can be said about the things I’ve done so far there. I think emotion really only comes from subversion of expectations on a continuum between two extremes: Between failure when expecting success and success when expecting failure. This makes the outlook on the rest of my life pretty gloomy. If all I do is work hard to increase probability of success for the rest of my life, there doesn’t seem anything momentous to live for. From present perspectives, big goals seem fanciful and we think a fountain of emotion awaits at its end, but as we work harder and harder towards the goal, and it becomes ever more attainable, parallelly, the joy seeps out… for me at least. I try to look for other avenues from which to derive emotion now for future me’s sake, but haven’t come up with anything. Hopefully I’ll be surprised.

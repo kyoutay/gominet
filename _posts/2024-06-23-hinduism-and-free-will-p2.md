@@ -1,0 +1,11 @@
+---
+title: "Hinduism and Free Will p2"
+date: 2024-06-23 23:19:30 -07:00
+tags: ["religion rambles"]
+---
+
+I suppose it would be viewed as pretty depressing, the futility of it all, by most if Free Will didn’t exist in some form. Most people can acknowledge that all events have a predicate, but still in the end they still feel a sense of agency, a delusion. As such follows all the arguments for many religions out there. 
+
+Hinduism follows a similar pattern. They reason of a moral law of cause and effect, karma, but say in the end, decisions are freely arrived upon. It seems people will extent the ideas of determinism only as far as it is convenient for their minds to think about. Especially in religion, where Free Will rests at the crux of most of their arguments… because life would be too drab otherwise. I think that if the model of cause and effect for everything *ever* in the world is understood, then it would become obvious Free Will is an illusion. That even with the choices of cards a player was dealt has at his disposal to play, what he plays in the end is not as much of his choice as he thinks it is. 
+
+So to tie back to [Hinduism and Free Will p1](https://gomi0.net/2024/06/16/hinduism-and-freewill/), where I felt there were inklings of determinism present in jnana yoga, Hinduism has many interesting things to say insofar as it was convenient for the thinkers of that time to think about. By convenient, I don’t mean they deliberately wrote about these things in a conceited way, but simply a consequence of the patterned way human brains operate. For example, when trying to imagine the intersection of multiple odd-looking 3D objects at specific points, it may fit together in our minds a certain way, a way that is convenient for our minds to think about given the patterns we’ve digested in our lifetimes. However, oftentimes the result is totally different when plotted out. Our brains didn’t think to consider certain perspectives and angles. So I say all this not to shit on Shankara or Ramanuja or whoever else, but to point out the obvious conclusions given the innumerable perspectives we can take on in modern times.

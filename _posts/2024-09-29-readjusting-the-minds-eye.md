@@ -1,0 +1,11 @@
+---
+title: "Readjusting the mind’s eye"
+date: 2024-09-29 17:48:15 -07:00
+tags: ["mood"]
+---
+
+“If you want to study the stars after being in a brightly lit room, you must wait… There must be similar periods of waiting if the focal length of the mind is to readjust, withdrawing from the world’s glare to the internal recesses of the mind” – Huston Smith. I take the world’s glare to be the inefficient bickering, show, ego, worry… products of an uneasy mind. Internal recesses of the mind is aligning with the infinity abound around. Hinduism proposes a simple exercise to help readjust the mental eye inwards (and outward in the sense just above): viewing oneself in the third person. This is revolutionary initially, but eventually becomes soured with the usual human troubles with accustomation. I’d like to share a more powerful technique that seems more resistant. 
+
+Firstly, look at oneself from the third person, and then look around. Without anchoring the view on yourself. People passing by may jolt you back in place, this can be combatted by then assuming the view of the passerby, again, not anchoring their view on you. Then, if you find jolting still a problem, imagine oneself invisible. A floating t-shirt and pants. People on glance to momentarily check out the peculiarity, but their gazes shift elsewhere, probably back to themselves. A gust pushes open a door, a book flips itself, this blog springing from the abysses of infinity. *You* has no meaning, some arbitrary concatenation of symbols. Something on a big ole rock. Put on some chi glasses and in that seat is a more efficient flow, making it hardly noticeable. And in that one are blockages, reflections, an eyesore. Soon, the world comes into view. Dancing leaves, reaching flowers, flowing sun, your being disappears, absorbed within the processions of the cosmos. 
+
+A technique that complements the above well is to stare into the mirror until your face and gaze becomes foreign. [Though be warned, doing so in a dim room may have scarring consequences. ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4258311/#:~:text=In%20normal%20observers%2C%20gazing%20at,relatives%20and%20deceased%2C%20and%20animals.)

@@ -1,0 +1,17 @@
+---
+title: "Caught up, pepe universe"
+date: 2024-06-19 22:03:31 -07:00
+tags: ["general"]
+---
+
+I’ve dunnit, I’ve caught up with my 2 day deficit in addition to doing today’s reading and learning.
+
+Working through the [Book of Proof](https://richardhammack.github.io/BookOfProof/) and I have encountered my first little road bump. It reminded me that a bit of grit and resolve will be needed through the journey. There’s nothing particularly interesting I have to say. Maybe just that the interconnectedness, wholeness, completeness, consistentcy-ness feeling of math is becoming more apparent to me each day. Also, that mathematics feels more like a philosophical discipline than a scientific one, which it is usually associated with. Science is performed through empirical analyses, holistic approaches, and other things of that nature. Math feels much more contemplative, creative, precise, rigorous(not in the difficulty type of flavor, but more kinda like exact). Perhaps that’d explain why so many historical mathematicians were also deep-thinking philosophers. I’m no expert in either field, so it feels a little silly yapping like this.
+
+Anyhow, in [The World’s Religions](https://www.goodreads.com/en/book/show/10285.The_World_s_Religions), I finished reading on Hinduism’s 4 yogas. The new ones being karmic yoga and raja yoga. Karmic yoga being the way to god through work. Work that is done dissociated from onself, because, doing things with/for the noise of ego will have a reciprocal effect back on the ego and through everything it interacts with. It was pretty cool to find the root definition of karma to be more or less consistent with the popular one we’ve all heard being used around. That is, things going around will come around and karma being about the effect things have on other things. Raja yoga was the more interesting one to read about. The more interesting read was raja yoga, the way to god through psychophysical exercises, i.e., meditation. The senses are bridges to the physical world, yogis are not interested in that. They care about what is inward; meditation allows concentration on the inside. And all concentration is is focusing attention on one thing, such that other things are ignored. I.e. concentrating on one thing will exclude all else. Concentrating inward meant cutting off the senses, the bridges to the physical world. Done properly, it is said the secret of universe is revealed. 
+
+The amusing part to me was simultaneously reading these words and simultaneously becoming conscious of the absence of consciousness of my other senses. I was concentrated on the words and everything else became excluded, yet I knew this in a somewhat paradoxical way. Even more so was the effect when I read how this state induces a sort of synchronization with the object being concentrated on. I became the book, I felt my pages being turned as my hands went to turn the pages. I felt the roughness of the pages like skin, the light of the lamp like something on my skin, illuminating my words. My hands and mind seemed to physically merge with the book. Like the cliche phrase, “become one with &lt;insert something&gt;”, it happened. I momentarily attained what all those martial art masters in the movies were talking about. Pretty crazy.
+
+How I felt:
+
+![](/assets/1717823973519905.jpg)

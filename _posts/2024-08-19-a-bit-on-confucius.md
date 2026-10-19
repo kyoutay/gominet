@@ -1,0 +1,9 @@
+---
+title: "A bit on Confucius"
+date: 2024-08-19 21:06:54 -07:00
+tags: ["religion rambles"]
+---
+
+Aboutta month ago, in [this post](https://gomi0.net/2024/07/26/garden-mind/) I wrote of how Confucian ideals haven’t aged the best, so this will be a little addendum to that one. Exhibit A: he envisioned a social order where positions in the order rung were merited. A husband who’s magnanimity warranted his wife’s loyalty and respect; all sort of ruler-subject relationships were not automatic. But, due to the sinister nature of humans, have taken them to be automatic. Domestic abuse, nepotism, and other things my mind is too groggy to enumerate, came about from an inevitable perversion of Confucian wisdom. I wrote previously that he was a lofty thinker; Confucius tended away from the metaphysical and repudiated speculation which are what I think are two of the things essential to more precise thought. Lofty ideals are prone to perversion, they have innumerable chinks in their armor (no racist pun intended). I’ve been ragging on the guy, but Chinese society, until the first millennium BCE especially, [was full of ancestral spirit dead superstition worship sacrifice type stuff](https://en.wikipedia.org/wiki/Ancestor_veneration_in_China#:~:text=Ancestors%20are%20believed%20to%20be,spread%20to%20ethnic%20minority%20groups.). Confucius had managed to somewhat ground popular thought into the practical and tangible, putting earth before heaven, where heaven was before earth, filial piety of the living rather than ancestor worship. He did not dismiss the latter, only argued it secondary. 
+
+Anyhow, I’ll probably do one more on Confucius before moving on to China’s last of [three teachings](https://en.wikipedia.org/wiki/Three_teachings) (done in no particular order).
