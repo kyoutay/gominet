@@ -1,8 +1,7 @@
 title: "gomi0.net"
-url: "https://gomi0.net"
-baseurl: ""
 permalink: /:year/:month/:day/:title/
 markdown: kramdown
+future: true
 
 defaults:
   - scope:
