@@ -1,0 +1,12 @@
+title: "gomi0.net"
+url: "https://gomi0.net"
+baseurl: ""
+permalink: /:year/:month/:day/:title/
+markdown: kramdown
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"

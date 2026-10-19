@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+  <style>
+    body {
+      max-width: 650px;
+      margin: 20px auto;
+      padding: 0 15px;
+      font-family: serif;
+      line-height: 1.5;
+      color: #000;
+      background: #fff;
+    }
+    header {
+      margin-bottom: 25px;
+    }
+    header img {
+      display: block;
+      max-width: 200px;
+      height: auto;
+    }
+    nav {
+      margin-top: 10px;
+    }
+    nav a {
+      margin-right: 10px;
+    }
+    nav a.active {
+      font-weight: bold;
+      text-decoration: none;
+      color: #000;
+    }
+    ul.post-list {
+      list-style: none;
+      padding: 0;
+    }
+    ul.post-list li {
+      margin-bottom: 8px;
+    }
+    .post-meta {
+      color: #555;
+      font-size: 0.9em;
+    }
+    pre, code {
+      background: #f4f4f4;
+      padding: 2px 4px;
+    }
+    pre {
+      padding: 10px;
+      overflow-x: auto;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <a href="{{ '/' | relative_url }}">
+      <img src="{{ '/header.png' | relative_url }}" alt="header">
+    </a>
+    <nav id="tag-nav">
+      <a href="{{ '/' | relative_url }}" data-tag="">all</a>
+      {% assign sorted_tags = site.tags | sort %}
+      {% for tag in sorted_tags %}
+        {% assign tag_name = tag[0] %}
+        <a href="{{ '/?tag=' | append: tag_name | relative_url }}" data-tag="{{ tag_name }}">{{ tag_name }}</a>
+      {% endfor %}
+    </nav>
+  </header>
+
+  <main>
+    {{ content }}
+  </main>
+</body>
+</html>

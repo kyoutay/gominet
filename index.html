@@ -1,0 +1,41 @@
+---
+layout: default
+---
+<p id="filter-status" style="display: none;"></p>
+
+<ul class="post-list" id="post-list">
+  {% for post in site.posts %}
+    <li data-tags="{{ post.tags | join: ',' }}">
+      <span>{{ post.date | date: "%Y-%m-%d" }}</span> &mdash;
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+<script>
+  (function() {
+    var params = new URLSearchParams(window.location.search);
+    var activeTag = params.get('tag') || '';
+
+    var navLinks = document.querySelectorAll('#tag-nav a');
+    navLinks.forEach(function(link) {
+      if (link.getAttribute('data-tag') === activeTag) {
+        link.classList.add('active');
+      }
+    });
+
+    if (activeTag) {
+      var status = document.getElementById('filter-status');
+      status.textContent = 'Posts tagged "' + activeTag + '":';
+      status.style.display = 'block';
+
+      var items = document.querySelectorAll('#post-list li');
+      items.forEach(function(item) {
+        var tags = (item.getAttribute('data-tags') || '').split(',');
+        if (tags.indexOf(activeTag) === -1) {
+          item.style.display = 'none';
+        }
+      });
+    }
+  })();
+</script>
