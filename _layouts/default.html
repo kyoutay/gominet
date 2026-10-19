@@ -65,6 +65,7 @@
     </a>
     <nav id="tag-nav">
       <a href="{{ '/' | relative_url }}" data-tag="">all</a>
+      <a href="{{ '/about/' | relative_url }}" {% if page.url == '/about/' %}class="active"{% endif %}>about</a>
       {% assign sorted_tags = site.tags | sort %}
       {% for tag in sorted_tags %}
         {% assign tag_name = tag[0] %}
