@@ -14,28 +14,50 @@ layout: default
 
 <script>
   (function() {
-    var params = new URLSearchParams(window.location.search);
-    var activeTag = params.get('tag') || '';
+    function applyFilter() {
+      var params = new URLSearchParams(window.location.search);
+      var activeTag = params.get('tag') || '';
 
-    var navLinks = document.querySelectorAll('#tag-nav a');
-    navLinks.forEach(function(link) {
-      if (link.getAttribute('data-tag') === activeTag) {
-        link.classList.add('active');
-      }
-    });
-
-    if (activeTag) {
-      var status = document.getElementById('filter-status');
-      status.textContent = 'Posts tagged "' + activeTag + '":';
-      status.style.display = 'block';
-
-      var items = document.querySelectorAll('#post-list li');
-      items.forEach(function(item) {
-        var tags = (item.getAttribute('data-tags') || '').split(',');
-        if (tags.indexOf(activeTag) === -1) {
-          item.style.display = 'none';
+      var navLinks = document.querySelectorAll('#tag-nav a[data-tag]');
+      navLinks.forEach(function(link) {
+        if (link.getAttribute('data-tag') === activeTag) {
+          link.classList.add('active');
+        } else {
+          link.classList.remove('active');
         }
       });
+
+      var status = document.getElementById('filter-status');
+      var items = document.querySelectorAll('#post-list li');
+
+      if (activeTag) {
+        status.textContent = 'Posts tagged "' + activeTag + '":';
+        status.style.display = 'block';
+
+        items.forEach(function(item) {
+          var tags = (item.getAttribute('data-tags') || '').split(',');
+          item.style.display = (tags.indexOf(activeTag) === -1) ? 'none' : '';
+        });
+      } else {
+        status.style.display = 'none';
+        items.forEach(function(item) {
+          item.style.display = '';
+        });
+      }
     }
+
+    var navLinks = document.querySelectorAll('#tag-nav a[data-tag]');
+    navLinks.forEach(function(link) {
+      link.addEventListener('click', function(e) {
+        e.preventDefault();
+        var tag = link.getAttribute('data-tag');
+        var newUrl = tag ? ('/?tag=' + encodeURIComponent(tag)) : '/';
+        window.history.pushState({ tag: tag }, '', newUrl);
+        applyFilter();
+      });
+    });
+
+    window.addEventListener('popstate', applyFilter);
+    applyFilter();
   })();
 </script>
