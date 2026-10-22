@@ -4,7 +4,7 @@ title: "Parallel Realities"
 
 date: 2026-10-22 01:26:00 -07:00
 
-tags: ["mood"]
+tags: ["mood", "living problems"]
 
 ---
 
