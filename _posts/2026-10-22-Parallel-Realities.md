@@ -1,12 +1,12 @@
-\---
+---
 
 title: "Parallel Realities"
 
 date: 2026-10-22 01:26:00 -07:00
 
-tags: \["mood"]
+tags: ["mood"]
 
-\---
+---
 
 
 
@@ -34,5 +34,5 @@ I think... I'll just try to be happy. I reflect on my years in the cocoon, that 
 
 After all, what else is this but a chance to experience? An interpretation of a bunch of colored lights?
 
-So! I will drop that class. I will drop the major to a minor with only 3 classes leftover. I will do what I feel like and not what these post-cocoon thoughts cry. It is an exercise in letting go. What will happen when I graduate? Don't know, can't know. We will find out then, there's no use in being sad while waiting... can try to be happy while figuring it out. [It could be much worse.](%28https://en.wikipedia.org/wiki/Negative_visualization%29)
+So! I will drop that class. I will drop the major to a minor with only 3 classes leftover. I will do what I feel like and not what these post-cocoon thoughts cry. It is an exercise in letting go. What will happen when I graduate? Don't know, can't know. We will find out then, there's no use in being sad while waiting... can try to be happy while figuring it out. [It could be much worse.](https://en.wikipedia.org/wiki/Negative_visualization)
 
